@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.49](https://github.com/kunchenguid/quota-axi/compare/quota-axi-v0.1.48...quota-axi-v0.1.49) (2026-09-21)
+
+
+### Features
+
+* **copilot:** read standalone Copilot CLI sign-ins from the native secure store ([#234](https://github.com/kunchenguid/quota-axi/issues/234)) ([64474ed](https://github.com/kunchenguid/quota-axi/commit/64474eda35dc578eae4199baa1684343ff70d5a6))
+
 ## [0.1.48](https://github.com/kunchenguid/quota-axi/compare/quota-axi-v0.1.47...quota-axi-v0.1.48) (2026-09-20)
 
 
