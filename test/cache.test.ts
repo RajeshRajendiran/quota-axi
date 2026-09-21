@@ -498,5 +498,6 @@ function providerLabel(provider: ProviderId): string {
   if (provider === "meta") return "Meta Muse";
   if (provider === "zai") return "Z.AI";
   if (provider === "agy") return "Antigravity";
+  if (provider === "ollama") return "Ollama Cloud";
   return "Kimi";
 }
